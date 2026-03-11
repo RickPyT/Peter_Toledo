@@ -1,7 +1,91 @@
-<h1>Hi, I'm Peter Toledo! <br/><a href="https://github.com/RickPyT">Programador</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
+<h1>Hi, I'm Peter Toledo 👷‍♂️</h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+Civil Engineer Graduate focused on **Structural Engineering and BIM methodology**.  
+Experience in **SAP2000, ETABS, Revit and Autodesk Construction Cloud (ACC)**, with interest in **computational engineering and automation using Python**.
 
+<br/>
+
+<a href="https://github.com/RickPyT">GitHub Projects</a> • 
+<a href="https://www.linkedin.com/in/peter-toledo">LinkedIn</a>
+
+---
+
+# 👨‍💻 Structural Engineering Projects
+
+## 🏗 Structural Analysis and Design
+
+- **Structural Analysis of Steel Structures (SAP2000)**
+  - Structural modeling and load assignment for industrial and non-industrial steel structures.
+  - Verification according to **RNE and AISC standards**.
+  - Development of structural calculation sheets and technical documentation.
+
+- **Reinforced Concrete Structural Analysis**
+  - Structural modeling and evaluation of reinforced concrete elements.
+  - Analysis of structural response under gravity and seismic loads.
+  - Preparation of structural verification reports.
+
+---
+
+## 🧱 BIM Modeling and Coordination
+
+- **BIM Modeling of Building Projects (Revit)**
+  - 3D modeling of **structural elements, sanitary installations and electrical systems**.
+  - Parametrization of BIM elements for quantity takeoffs.
+  - Development of BIM models for project documentation and coordination.
+
+- **BIM Coordination using Autodesk Construction Cloud (ACC)**
+  - Collaborative work in cloud-based environments.
+  - Model coordination with multidisciplinary teams.
+  - Information exchange and document management through ACC.
+
+---
+
+## 📊 Quantity Takeoff and Technical Documentation
+
+- **BIM-Based Quantity Takeoff**
+  - Generation of quantity schedules directly from Revit models.
+  - Parametrization of models for accurate material estimation.
+  - Support for project bidding processes.
+
+- **Technical Documentation for Engineering Projects**
+  - Preparation of technical reports and engineering documentation.
+  - Development of calculation sheets and project support documents.
+
+---
+
+## 🐍 Engineering Automation (Python)
+
+- **Engineering Calculations using Python**
+  - Development of scripts for engineering calculations.
+  - Automation of repetitive calculation tasks.
+  - Exploration of computational tools applied to civil engineering.
+
+---
+
+# 📂 Featured Project Examples
+
+### BIM Structural Model Example
+<img src="images/bim_model_example.png" width="600">
+
+### Structural Analysis Model (SAP2000)
+<img src="images/sap2000_model_example.png" width="600">
+
+### Quantity Takeoff from BIM Model
+<img src="images/quantity_takeoff_example.png" width="600">
+
+---
+
+# 🤝 Connect with me
+
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br/>
+
+[linkedin]: https://www.linkedin.com/in/peter-toledo
+
+
+<!--
+Ejemplo para agregar título de proyecto vinculado
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
@@ -18,27 +102,20 @@
 - <b>Python</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-<h2>📺 Popular YouTube Videos</h2>
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-<h2> 🤳 Connect with me:</h2>
+
+
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[twitter]: https://twitter.com/joshmadakor
 
 [<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
 [youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
 
-<!--
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[instagram]: https://www.instagram.com/joshmadakor/
+
+
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
