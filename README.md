@@ -5,8 +5,13 @@ Experience in **SAP2000, ETABS, Revit and Autodesk Construction Cloud (ACC)**, w
 
 <br/>
 
-<a href="https://github.com/RickPyT">GitHub Projects</a> • 
-<a href="https://www.linkedin.com/in/peter-toledo">LinkedIn</a>
+[<img align="left" alt="GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][github]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+<br/>
+
+[github]: https://github.com/RickPyT
+[linkedin]: https://www.linkedin.com/in/peter-toledo
 
 ---
 
@@ -72,6 +77,30 @@ Experience in **SAP2000, ETABS, Revit and Autodesk Construction Cloud (ACC)**, w
 
 ### Quantity Takeoff from BIM Model
 <img src="images/quantity_takeoff_example.png" width="600">
+
+---
+
+## 📜 Certifications
+
+🔹 **Especialista Modelador Structure – Nivel Profesional**  
+Fractal Studio — 2023  
+📄 [Certificate](https://1drv.ms/b/c/f6570a96a7cb2f79/IQB5L8unlgpXIID2BkMAAAAAAUoawpkYokNl4guUZjTMToU?e=V9gVC4)
+
+🔹 **Diseño Sísmico de Elementos de Concreto Armado**  
+TEDI — 2023  
+📄 [Certificate](https://tu-enlace-onedrive)
+
+🔹 **Modelador BIM con Revit MEP y Architecture**  
+SENCICO — 2022  
+📄 [Certificate](https://tu-enlace-onedrive)
+
+🔹 **Congreso Nacional de Estudiantes de Ingeniería Civil (CONEIC)**  
+Arequipa — 2022  
+📄 [Certificate](https://tu-enlace-onedrive)
+
+🔹 **Programa de Especialización en AutoCAD**  
+CEPS – UNI — 2018  
+📄 [Certificate](https://tu-enlace-onedrive)
 
 ---
 
